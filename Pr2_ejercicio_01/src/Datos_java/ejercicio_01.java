@@ -14,7 +14,7 @@
 package Datos_java;
 import java.util.Scanner;
 
-public class ejercicio_01 {
+public class Ejercicio_01 {
 static Scanner teclado = new Scanner(System.in);
 public static void main(String[] args) {
 		
