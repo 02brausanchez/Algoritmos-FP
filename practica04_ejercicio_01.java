@@ -1,5 +1,5 @@
 /*
- ============Documentacion===========
+ * ============Documentacion===========
  * Autor: Sanchez Morales Braulio Eduardo 
  * Descripcion: Programa que relata un breve poema
  * Datos de entrada: Ninguno 
