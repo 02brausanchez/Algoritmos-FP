@@ -1,10 +1,10 @@
 /* ********************* DOCUMENTACION**********************
  
- * Autor:Sanchez Morales Braulio Eduardo 
+ * Autor: Sanchez Morales Braulio Eduardo 
  * 
  * Descripcion: Programa que hace el interactue con el usario a traves de ciertas preguntas 
  *   
- * Datos de entrada: la información del alumno (nombre, edad, promedio de prepa, nombre
+ * Datos de entrada: La información del alumno (nombre, edad, promedio de prepa, nombre
  * de prepa e inicial de carrera)
  * 
  * Datos de salida: Saludo, resumen de información dada, despedida
