@@ -2,7 +2,7 @@
  
  * Autor: Sanchez Morales Braulio Eduardo 
  * 
- * Descripcion: Programa que hace el interactue con el usario a traves de ciertas preguntas 
+ * Descripcion: Programa que interactua con el usario a traves de ciertas preguntas 
  *   
  * Datos de entrada: La información del alumno (nombre, edad, promedio de prepa, nombre
  * de prepa e inicial de carrera)
