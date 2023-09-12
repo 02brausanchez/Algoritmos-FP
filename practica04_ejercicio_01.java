@@ -3,7 +3,7 @@
  * Autor: Sanchez Morales Braulio Eduardo 
  * Descripcion: Programa que relata un breve poema
  * Datos de entrada: Ninguno 
- * Datos de salida:Ninguno
+ * Datos de salida: Ninguno
  * 
  */
 
