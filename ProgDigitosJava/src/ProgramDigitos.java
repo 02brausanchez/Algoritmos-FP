@@ -11,7 +11,7 @@
     num_orig = num;
     cont = 1;
     System.out.println(" Los digitos de: " + num + " son ");
-    while (num >= 9){ //
+    while (num >= 9){ 
         digito = num % 10;
         System.out.println(" digito " +digito);
         cont += 1;
