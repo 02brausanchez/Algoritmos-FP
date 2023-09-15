@@ -15,9 +15,9 @@ package Datos_java;
 import java.util.Scanner;
 
 public class Ejercicio_01 {
-static Scanner teclado = new Scanner(System.in);
 public static void main(String[] args) {
-		
+Scanner teclado = new Scanner(System.in);	
+
 String nombre,escuela;
 int edad; 
 float promedio; 
